@@ -1,2 +1,7 @@
 # Practice_DesignPatterns
-Repo created for the purpose of practicing design pattern implementations.
+A repo for practicing Design Pattern concepts and implementations.
+
+
+## References
+- https://codewithmosh.com/p/design-patterns
+- https://refactoring.guru/design-patterns
